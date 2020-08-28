@@ -1,0 +1,26 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	  "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anand0/devApps.git"
+  },
+  "author": "Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anand0/devApps/issues"
+  },
+  "homepage": "https://github.com/Anand0/devApps#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
